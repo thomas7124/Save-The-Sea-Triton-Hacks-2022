@@ -1,14 +1,15 @@
 # Save-The-Seas-Triton-Hacks
 
-Coral Reefs are very cool, and visualizing them with data is even cooler.
+**Coral Reefs are very cool, and visualizing them with data is even cooler.**
+Coral Reefs are dying all around the world, and we want to raise awareness with our interactive map.
+
 This repo displays an interactive map with every deep sea coral plotted in the world.
 
 
-And check out our website at:
+And make sure to check out our website at:
 https://www.creativedomainname.tech/
 
 ![Example](https://i.imgur.com/mNgLKUf.png)
-
 
 
 
@@ -24,13 +25,14 @@ We took out parts we did not need so the data set wouldn't be 300 mb.
 
 # The Use
 
-For this project, you will have to first add the data set provided above.
+You can either see the map in its highest quality, or a compressed version of it.
 
-**See the map at its highest quality**
+**To see the map at its highest quality**
 
 -  Run display_full.py
+-  You will hae to make sure the dataset is downloaded and added to this directory.
 
-**See the map in its compressed form**
+**To see the map in its compressed form**
 
 -  Run rounded_display.py
 -  You can also run the HTML file instead.
