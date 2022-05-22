@@ -8,7 +8,8 @@ This repo displays an interactive map with every deep sea coral plotted in the w
 And check out our website at:
 https://www.creativedomainname.tech/
 
-![Alt text](https://imgur.com/gallery/mNgLKUf)
+![Image](https://imgur.com/gallery/mNgLKUf)
+
 
 
 
