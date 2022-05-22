@@ -1,14 +1,13 @@
 # Save-The-Seas-Triton-Hacks
-
-Coral Reefs are very cool.
-And visualizing them with data is even cooler.
-
+'''
+Coral Reefs are very cool, and visualizing them with data is even cooler.
 This repo displays an interactive map with every deep sea coral plotted in the world.
+'''
 
 And check out our website at:
 https://www.creativedomainname.tech/
 
-![Image]([https://imgur.com/gallery/mNgLKUf](https://imgur.com/gallery/mNgLKUf))
+![Example](https://imgur.com/gallery/mNgLKUf.png)
 
 
 
