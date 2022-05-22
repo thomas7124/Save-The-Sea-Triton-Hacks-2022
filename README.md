@@ -11,7 +11,6 @@ This repo displays an interactive map with every deep sea coral plotted in the w
 
 https://www.creativedomainname.tech/
 
-_What it looks like_
 ![Example](https://i.imgur.com/mNgLKUf.png)
 
 
