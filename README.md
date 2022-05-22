@@ -1,14 +1,17 @@
 # Save-The-Seas-Triton-Hacks
 
 **Coral Reefs are very cool, and visualizing them with data is even cooler.**
-Coral Reefs are dying all around the world, and we want to raise awareness with our interactive map.
+
+Coral Reefs are dying all around the world, and we want to help raise awareness with our interactive map.
 
 This repo displays an interactive map with every deep sea coral plotted in the world.
 
 
-And make sure to check out our website at:
+⬇️And make sure to check out our website at⬇️
+
 https://www.creativedomainname.tech/
 
+_What it looks like_
 ![Example](https://i.imgur.com/mNgLKUf.png)
 
 
