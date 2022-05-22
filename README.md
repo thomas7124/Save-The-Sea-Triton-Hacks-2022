@@ -5,10 +5,12 @@ And visualizing them with data is even cooler.
 
 This repo displays an interactive map with every deep sea coral plotted in the world.
 
-![Alt text]([Image URL](https://imgur.com/gallery/mNgLKUf))
-
-Check out our website at:
+And check out our website at:
 https://www.creativedomainname.tech/
+
+![Alt text](https://imgur.com/gallery/mNgLKUf)
+
+
 
 # IMPORTANT
 
